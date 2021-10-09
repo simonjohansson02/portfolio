@@ -1,3 +1,40 @@
-h1 {
-    background: rebeccapurple;
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #1e1e1e;
+	color: white;
+}
+
+.aftonbladet-click-link {
+	color: red;
+}
+
+.aftonbladet-click-link:hover {
+	transition: 1s;
+	color: royalblue;
+}
+
+#aftonbladet-image {
+	width: 25vw;
+}
+
+#aftonbladet-image:hover {
+	background-color: seagreen;
+	transition: 1.5s;
+}
+
+.faq-button {
+	background-color: skyblue;
+	border-radius: 50%;
+	width: 80px; 
+	height: 80px;
+	border-color: slateblue;
+	
+}
+
+.faq-button:hover {
+	background-color: teal;
+	color: yellow;
+	transition: 1s;
+	border-color: yellowgreen;
+
 }
