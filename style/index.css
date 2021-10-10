@@ -4,6 +4,12 @@ body {
 	color: white;
 }
 
+.evrything {
+	width: 250px;
+	background-color: black;
+	padding: 20px;
+}
+
 .aftonbladet-click-link {
 	color: red;
 }
@@ -23,11 +29,11 @@ body {
 }
 
 .faq-button {
-	background-color: skyblue;
+	background-color: white;
 	border-radius: 50%;
 	width: 80px; 
 	height: 80px;
-	border-color: slateblue;
+	border-color: rgb(90, 197, 205);
 	
 }
 
@@ -36,5 +42,12 @@ body {
 	color: yellow;
 	transition: 1s;
 	border-color: yellowgreen;
+}
 
+.hej-list {
+	padding: 0px 0px 0px 20px; 
+}
+
+.mabey-list {
+	padding-left: 20px;
 }
